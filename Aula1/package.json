@@ -1,0 +1,8 @@
+{
+  "name": "Aula01",
+  "version": "1.0.0",
+  "description": "Aula 01 de node.js com o Profº Luis",
+  "main": "index.js",
+  "author": "Gabriel Müller dos Santos",
+  "license": "MIT"
+}
