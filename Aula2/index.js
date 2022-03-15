@@ -9,6 +9,6 @@ async function readData() {
   }
 }
 function doMap() {
-  const people = readData();
+  const people = readData();//ainda preciso terminar
 }
 readData();
